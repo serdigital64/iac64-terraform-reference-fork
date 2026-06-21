@@ -1,3 +1,7 @@
+#
+# Shared Locals
+#
+
 locals {
   #
   # Strings

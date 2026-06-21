@@ -1,3 +1,7 @@
+#
+# Shared Locals
+#
+
 locals {
   sample__map_string = {
     key1 = "value1"

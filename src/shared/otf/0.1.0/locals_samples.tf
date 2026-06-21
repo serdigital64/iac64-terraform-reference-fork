@@ -1,3 +1,7 @@
+#
+# Shared Locals
+#
+
 locals {
   sample__bool_true  = true
   sample__bool_false = false
